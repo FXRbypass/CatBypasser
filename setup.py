@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="catbypasser",
-    version="1.0.1",
-    description="A simple bypasser",
-    author="shadow62",
-    author_email="strippersex8@gmail.com",
+    name="FXRbypass",
+    version="5.6.0",
+    description="my first bypass hub guide",
+    author="FXM",
+    author_email="fxmbypass@gmail.com",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
