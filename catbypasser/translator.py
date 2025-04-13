@@ -1,6 +1,6 @@
 def bypass(text: str) -> str:
     """
-    CatBypasser.
+    FXRbypass.
 
     Args:
         text (str): The input text to translate.
